@@ -10,7 +10,7 @@ class WhoAmI extends Component {
       text: '+++',
       position: ''
     }
-    // this.nextYear = this.nextYear.bind(this); для обычных функций
+    // this.nextYear = this.nextYear.bind(this); для обычных функц
   }
 
   nextYear = () => {
